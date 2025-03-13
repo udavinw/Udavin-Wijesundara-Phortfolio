@@ -64,7 +64,6 @@ const Hero = () => {
           src={udavin}
           alt="Udavin Wijesundara"
           className="rounded-3xl shadow-2xl"
-          loading="lazy"
           initial="hidden"
           animate="visible"
           variants={imageVariants}
